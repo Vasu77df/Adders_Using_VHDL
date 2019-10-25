@@ -24,8 +24,8 @@ signal c1, c2, c3: STD_LOGIC; --carry declaration
 begin
 
 rca1: rca_behav port map( a(0), b(0), cin, s(0), c1);
-rca2: rca_behav port map( a(0), b(0), cin, s(0), c2);
-rca3: rca_behav port map( a(0), b(0), cin, s(0), c3);
-rca4: rca_behav port map( a(0), b(0), cin, s(0), cout);
+rca2: rca_behav port map( a(1), b(1), cin, s(1), c2);
+rca3: rca_behav port map( a(2), b(2), cin, s(2), c3);
+rca4: rca_behav port map( a(3), b(3), cin, s(3), cout);
 
 end struct;

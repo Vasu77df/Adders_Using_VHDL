@@ -19,5 +19,5 @@ port (	a : in STD_LOGIC_VECTOR (3 downto 0); --initialising an array
 	cout : out STD_LOGIC);
 end component fourbit_rca;
 
-signal carry_in : 
+signal carry_in : STD_LOGIC_VECTOR (3 downto 0);
 

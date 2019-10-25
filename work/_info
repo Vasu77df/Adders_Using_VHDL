@@ -1,0 +1,268 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Efourbit_rca
+Z0 w1571967629
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/vasu3/Desktop/ADDERS
+Z4 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
+Z5 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
+l0
+L4
+VQJ<A1_2A58gKh@mMCV]c`0
+!s100 i>9b@1`R1[aUoN8D33=4J1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1571967640
+!i10b 1
+Z8 !s108 1571967640.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
+Z10 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Astruct
+R1
+R2
+DEx4 work 11 fourbit_rca 0 22 QJ<A1_2A58gKh@mMCV]c`0
+l24
+L12
+V6V_jbLFzlhdb70MR_B^0A2
+!s100 4`l]fQ0zA7Q<G^ONWPh<c3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efourbit_rca_t
+Z13 w1571967530
+R1
+R2
+R3
+Z14 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
+Z15 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
+l0
+L4
+VH`<009?>Z[zHU0Z<S^8AH2
+!s100 U=UzQjeZo:B10A4;?jR7T1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
+Z17 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
+!i113 1
+R11
+R12
+Astruct
+R1
+R2
+Z18 DEx4 work 13 fourbit_rca_t 0 22 H`<009?>Z[zHU0Z<S^8AH2
+l26
+L7
+Z19 V1V?JQAcCSX:DZaEM7T@6H2
+Z20 !s100 NcKizXao4KhiE5okFa4Wa0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Eonebit_rca
+Z21 w1571890499
+Z22 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z23 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z24 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z25 8C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
+Z26 FC:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
+l0
+L6
+VL4lX44Y:8<[?KIn8gUKEm1
+!s100 PPDEUBBLBR8GDG>[6I_ID3
+R6
+32
+Z27 !s110 1571917986
+!i10b 1
+Z28 !s108 1571917986.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
+Z30 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
+!i113 1
+R11
+R12
+Abehav
+R22
+R23
+R24
+R1
+R2
+DEx4 work 10 onebit_rca 0 22 L4lX44Y:8<[?KIn8gUKEm1
+l12
+L11
+VE^4HJKBQ[z?aNJai<j4Hi1
+!s100 OCTV8>b[4G3;Z3H`K7Ko<1
+R6
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Eonebit_rca_test
+Z31 w1571917771
+R22
+R23
+R24
+R1
+R2
+R3
+Z32 8C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
+Z33 FC:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
+l0
+L6
+Vi^2z;d9CPJ2IEHFHE><Gc3
+!s100 _>bV^?98O_zI2`_O?0;R>3
+R6
+32
+R27
+!i10b 1
+R28
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
+Z35 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
+!i113 1
+R11
+R12
+Abehav
+R22
+R23
+R24
+R1
+R2
+DEx4 work 15 onebit_rca_test 0 22 i^2z;d9CPJ2IEHFHE><Gc3
+l29
+L9
+VS93SI0[G=Ca;2g26I^O8G1
+!s100 [?Li;IONa2DRP?B;`=J6`2
+R6
+32
+R27
+!i10b 1
+R28
+R34
+R35
+!i113 1
+R11
+R12
+Erca_behav
+Z36 w1571966619
+R22
+R23
+R24
+R1
+R2
+R3
+R25
+R26
+l0
+L6
+VZkW[DV^NWQdE;Tl1AoZ3Y0
+!s100 59eKGJXKkMZ6=nz;1O_ko2
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Abehav
+R22
+R23
+R24
+R1
+R2
+DEx4 work 9 rca_behav 0 22 ZkW[DV^NWQdE;Tl1AoZ3Y0
+l12
+L11
+VDo=7RVO5]U@5W:MOJae@C0
+!s100 eee?R`a9Xz2?1?L3OKY?]3
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Erca_behav_t
+Z37 w1571965768
+R22
+R23
+R24
+R1
+R2
+R3
+R32
+R33
+l0
+L9
+VS5fAAH=YKnf]:9]4zfhF11
+!s100 gj<aAEhJUP8=;=Sk^XJOV3
+R6
+32
+Z38 !s110 1571967639
+!i10b 1
+Z39 !s108 1571967639.000000
+R34
+R35
+!i113 1
+R11
+R12
+Abehav
+R22
+R23
+R24
+R1
+R2
+DEx4 work 11 rca_behav_t 0 22 S5fAAH=YKnf]:9]4zfhF11
+l32
+L12
+VCAMc>=KX2fC47=b=j@A_a0
+!s100 RJc^;mJeacZj6:C6A?RKU2
+R6
+32
+R38
+!i10b 1
+R39
+R34
+R35
+!i113 1
+R11
+R12

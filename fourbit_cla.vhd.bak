@@ -1,0 +1,38 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+ 
+entity cla is
+port ( a : in STD_LOGIC_VECTOR (3 downto 0);
+b : in STD_LOGIC_VECTOR (3 downto 0);
+cin : in STD_LOGIC;
+s : out STD_LOGIC_VECTOR (3 downto 0);
+cout : out STD_LOGIC);
+end cla;
+ 
+architecture behav of cla is
+ 
+component adder_for_cla
+port ( a : in STD_LOGIC;
+b : in STD_LOGIC;
+cin : in STD_LOGIC;
+s : out STD_LOGIC;
+p : out STD_LOGIC;
+g : out STD_LOGIC);
+end component;
+ 
+signal c1,c2,c3: STD_LOGIC;
+signal p,g: STD_LOGIC_VECTOR(3 downto 0);
+
+begin
+ 
+adder1: adder_for_cla port map( a(0), b(0), cin, s(0), p(0), g(0));
+adder2: adder_for_cla port map( a(1), b(1), cin, s(1), p(1), g(1));
+adder3: adder_for_cla port map( a(2), b(2), cin, s(2), p(2), g(2));
+adder4: adder_for_cla port map( a(3), b(3), cin, s(3), p(3), g(3));
+ 
+c1 <= g(0) OR (p(0) AND cin);
+c2 <= g(1) OR (p(1) AND g(0)) OR (p(1) AND p(0) AND cin);
+c3 <= g(2) OR (p(2) AND g(1)) OR (p(2) AND p(1) AND g(0)) OR (p(2) AND p(1) AND p(0) AND cin);
+cout <= g(3) OR (p(3) AND g(2)) OR (p(3) AND p(2) AND g(1)) OR (p(3) AND p(2) AND p(1) AND g(0)) OR (p(3) AND p(2) AND p(1) AND p(0) AND cin);
+
+end behav;

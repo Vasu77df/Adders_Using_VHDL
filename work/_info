@@ -8,27 +8,300 @@ z2
 !i10f 100
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
-Efourbit_rca
-Z0 w1572007465
+Eadder_for_cla
+Z0 w1572114422
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z3 dC:/Users/vasu3/Desktop/ADDERS
-Z4 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
-Z5 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
+Z4 8C:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd
+Z5 FC:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd
+l0
+L4
+VUKdmHDgP>V;H2PJ2;3BdM1
+!s100 fXc7iceV55`mKJc=FnGSP1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1572297897
+!i10b 1
+Z8 !s108 1572297897.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd|
+Z10 !s107 C:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehav
+R1
+R2
+DEx4 work 13 adder_for_cla 0 22 UKdmHDgP>V;H2PJ2;3BdM1
+l15
+L13
+VhSLIN0`FAP;Y:m@1F;miR1
+!s100 lYK]7<m5N0aSZAoCPHQPE2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecla
+Z13 w1572281345
+R1
+R2
+R3
+Z14 8C:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd
+Z15 FC:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd
+l0
+L4
+V`]>d`FiChDd76m^k>Q5cb1
+!s100 4[1icLWK]YITeW2UDb3221
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd|
+Z17 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 3 cla 0 22 `]>d`FiChDd76m^k>Q5cb1
+l26
+L12
+V2:S1dVAJ8;5O<B;O6L7>G0
+!s100 N<dUZ>FGNJ51;l:0No]gO2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ecla_sixteen
+Z18 w1572283156
+R1
+R2
+R3
+Z19 8C:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd
+Z20 FC:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd
+l0
+L4
+Vb54K?2HU8IYWnALRJSU3@0
+!s100 LeX7M@UU_diYD7>]IM2X11
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd|
+Z22 !s107 C:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd|
+!i113 1
+R11
+R12
+Astruct
+R1
+R2
+DEx4 work 11 cla_sixteen 0 22 b54K?2HU8IYWnALRJSU3@0
+l24
+L12
+V5jS:zZanP2151<E5b`<0e0
+!s100 XT2Y[GY30g:A>;M^PQ0J]2
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Ecla_sixteen_t
+Z23 w1572296007
+R1
+R2
+R3
+Z24 8C:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd
+Z25 FC:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd
+l0
+L4
+Ve[egz=OgN0XU9HVVPDe6<2
+!s100 >lk9ngf8@:m89lc2Z9ggo3
+R6
+32
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd|
+Z27 !s107 C:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 13 cla_sixteen_t 0 22 e[egz=OgN0XU9HVVPDe6<2
+l28
+L7
+VPO:HlAPCZEB@GdoaHI[QB0
+!s100 djCXb7Kkb2Ycfm9`Uf<J00
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Ecla_thirtytwo
+Z28 w1572297085
+R1
+R2
+R3
+Z29 8C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd
+Z30 FC:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd
+l0
+L4
+VH;cneB[WD`nhDomcPY8YZ3
+!s100 X?i>CT8=T_FC6VZM3Mmf30
+R6
+32
+Z31 !s110 1572297898
+!i10b 1
+Z32 !s108 1572297898.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd|
+Z34 !s107 C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd|
+!i113 1
+R11
+R12
+Astruct
+R1
+R2
+DEx4 work 13 cla_thirtytwo 0 22 H;cneB[WD`nhDomcPY8YZ3
+l24
+L12
+V<i8]GShW7nz?LOQ10785`1
+!s100 gUHd>TEoc0I3D3_B>ncfn3
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Ecla_thirtytwo_t
+Z35 w1572297889
+R1
+R2
+R3
+Z36 8C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd
+Z37 FC:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd
+l0
+L4
+V2mYLZ<1IgC;7Bj=:;DjE82
+!s100 jk;8@zGm;zfMV<52dcOGG2
+R6
+32
+R31
+!i10b 1
+R32
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd|
+Z39 !s107 C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 15 cla_thirtytwo_t 0 22 2mYLZ<1IgC;7Bj=:;DjE82
+l28
+L7
+VMbacbjWg=11OHm<;kzoR`0
+!s100 QNJHX@dQ_h<bGAlHfK@V:2
+R6
+32
+R31
+!i10b 1
+R32
+R38
+R39
+!i113 1
+R11
+R12
+Efourbit_cla_t
+Z40 w1572115712
+R1
+R2
+R3
+Z41 8C:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd
+Z42 FC:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd
+l0
+L4
+VZdHjedEm90BkR;IAO;aHa3
+!s100 l;[eY[d9hk:^2;WM1TG0T0
+R6
+32
+R7
+!i10b 1
+R8
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd|
+Z44 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 13 fourbit_cla_t 0 22 ZdHjedEm90BkR;IAO;aHa3
+l30
+L7
+VGKco:j?gJQNYkId_ZK5W=3
+!s100 :CA?h3A3ezOBBRNTaCb;42
+R6
+32
+R7
+!i10b 1
+R8
+R43
+R44
+!i113 1
+R11
+R12
+Efourbit_rca
+Z45 w1572007465
+R1
+R2
+R3
+Z46 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
+Z47 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
 l0
 L4
 VQJ<A1_2A58gKh@mMCV]c`0
 !s100 i>9b@1`R1[aUoN8D33=4J1
-Z6 OP;C;10.4a;61
+R6
 32
-Z7 !s110 1572007470
+R7
 !i10b 1
-Z8 !s108 1572007470.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
-Z10 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
+R8
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
+Z49 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd|
 !i113 1
-Z11 o-work work -2002 -explicit -O0
-Z12 tExplicit 1
+R11
+R12
 Astruct
 R1
 R2
@@ -42,78 +315,78 @@ R6
 R7
 !i10b 1
 R8
-R9
-R10
+R48
+R49
 !i113 1
 R11
 R12
 Efourbit_rca_t
-Z13 w1571967804
+Z50 w1571967804
 R1
 R2
 R3
-Z14 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
-Z15 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
+Z51 8C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
+Z52 FC:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
 l0
 L4
 VH`<009?>Z[zHU0Z<S^8AH2
 !s100 U=UzQjeZo:B10A4;?jR7T1
 R6
 32
-Z16 !s110 1572007471
+R7
 !i10b 1
 R8
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
-Z18 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
+Z54 !s107 C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd|
 !i113 1
 R11
 R12
 Astruct
 R1
 R2
-Z19 DEx4 work 13 fourbit_rca_t 0 22 H`<009?>Z[zHU0Z<S^8AH2
+DEx4 work 13 fourbit_rca_t 0 22 H`<009?>Z[zHU0Z<S^8AH2
 l26
 L7
 V6EIWOIk4C[o01`Vmk^8d@1
 !s100 ZVS[[;zE>L:Z8GWPC]<<<3
 R6
 32
-R16
+R7
 !i10b 1
 R8
-R17
-R18
+R53
+R54
 !i113 1
 R11
 R12
 Eonebit_rca
-Z20 w1571890499
-Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z23 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z55 w1571890499
+Z56 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z57 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z58 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R1
 R2
 R3
-Z24 8C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
-Z25 FC:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
+Z59 8C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
+Z60 FC:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
 l0
 L6
 VL4lX44Y:8<[?KIn8gUKEm1
 !s100 PPDEUBBLBR8GDG>[6I_ID3
 R6
 32
-Z26 !s110 1571917986
+Z61 !s110 1571917986
 !i10b 1
-Z27 !s108 1571917986.000000
-Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
-Z29 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
+Z62 !s108 1571917986.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
+Z64 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd|
 !i113 1
 R11
 R12
 Abehav
-R21
-R22
-R23
+R56
+R57
+R58
 R1
 R2
 DEx4 work 10 onebit_rca 0 22 L4lX44Y:8<[?KIn8gUKEm1
@@ -123,42 +396,42 @@ VE^4HJKBQ[z?aNJai<j4Hi1
 !s100 OCTV8>b[4G3;Z3H`K7Ko<1
 R6
 32
-R26
+R61
 !i10b 1
-R27
-R28
-R29
+R62
+R63
+R64
 !i113 1
 R11
 R12
 Eonebit_rca_test
-Z30 w1571917771
-R21
-R22
-R23
+Z65 w1571917771
+R56
+R57
+R58
 R1
 R2
 R3
-Z31 8C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
-Z32 FC:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
+Z66 8C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
+Z67 FC:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
 l0
 L6
 Vi^2z;d9CPJ2IEHFHE><Gc3
 !s100 _>bV^?98O_zI2`_O?0;R>3
 R6
 32
-R26
+R61
 !i10b 1
-R27
-Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
-Z34 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
+R62
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
+Z69 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd|
 !i113 1
 R11
 R12
 Abehav
-R21
-R22
-R23
+R56
+R57
+R58
 R1
 R2
 DEx4 work 15 onebit_rca_test 0 22 i^2z;d9CPJ2IEHFHE><Gc3
@@ -168,42 +441,42 @@ VS93SI0[G=Ca;2g26I^O8G1
 !s100 [?Li;IONa2DRP?B;`=J6`2
 R6
 32
-R26
+R61
 !i10b 1
-R27
-R33
-R34
+R62
+R68
+R69
 !i113 1
 R11
 R12
 Erca_behav
-Z35 w1571966619
-R21
-R22
-R23
+Z70 w1571966619
+R56
+R57
+R58
 R1
 R2
 R3
-R24
-R25
+R59
+R60
 l0
 L6
 VZkW[DV^NWQdE;Tl1AoZ3Y0
 !s100 59eKGJXKkMZ6=nz;1O_ko2
 R6
 32
-R7
+Z71 !s110 1572297896
 !i10b 1
-R8
-R28
-R29
+Z72 !s108 1572297896.000000
+R63
+R64
 !i113 1
 R11
 R12
 Abehav
-R21
-R22
-R23
+R56
+R57
+R58
 R1
 R2
 DEx4 work 9 rca_behav 0 22 ZkW[DV^NWQdE;Tl1AoZ3Y0
@@ -213,42 +486,42 @@ VDo=7RVO5]U@5W:MOJae@C0
 !s100 eee?R`a9Xz2?1?L3OKY?]3
 R6
 32
-R7
+R71
 !i10b 1
-R8
-R28
-R29
+R72
+R63
+R64
 !i113 1
 R11
 R12
 Erca_behav_t
-Z36 w1571965768
-R21
-R22
-R23
+Z73 w1571965768
+R56
+R57
+R58
 R1
 R2
 R3
-R31
-R32
+R66
+R67
 l0
 L9
 VS5fAAH=YKnf]:9]4zfhF11
 !s100 gj<aAEhJUP8=;=Sk^XJOV3
 R6
 32
-R7
+R71
 !i10b 1
-R8
-R33
-R34
+R72
+R68
+R69
 !i113 1
 R11
 R12
 Abehav
-R21
-R22
-R23
+R56
+R57
+R58
 R1
 R2
 DEx4 work 11 rca_behav_t 0 22 S5fAAH=YKnf]:9]4zfhF11
@@ -258,11 +531,89 @@ VCAMc>=KX2fC47=b=j@A_a0
 !s100 RJc^;mJeacZj6:C6A?RKU2
 R6
 32
+R71
+!i10b 1
+R72
+R68
+R69
+!i113 1
+R11
+R12
+Erca_thirtytwo
+Z74 w1572293432
+R1
+R2
+R3
+Z75 8C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd
+Z76 FC:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd
+l0
+L4
+VIoYk=kbDE?E5DDQQFNeb43
+!s100 EVhj`<jH77MIc1U:4`mLO3
+R6
+32
 R7
 !i10b 1
 R8
-R33
-R34
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd|
+Z78 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd|
+!i113 1
+R11
+R12
+Astruct
+R1
+R2
+DEx4 work 13 rca_thirtytwo 0 22 IoYk=kbDE?E5DDQQFNeb43
+l24
+L12
+VZ;3FPk=7=0_jf5<@go0?U3
+!s100 YZLWJVCiz7;Pbg0BCe0;O3
+R6
+32
+R7
+!i10b 1
+R8
+R77
+R78
+!i113 1
+R11
+R12
+Erca_thirtytwo_t
+Z79 w1572295634
+R1
+R2
+R3
+Z80 8C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd
+Z81 FC:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd
+l0
+L4
+V7gAbbTK;[CV4Je7c^IWPi0
+!s100 5jAhPKY23hTaVdGCAhDNj3
+R6
+32
+R31
+!i10b 1
+R8
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd|
+Z83 !s107 C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 15 rca_thirtytwo_t 0 22 7gAbbTK;[CV4Je7c^IWPi0
+l28
+L7
+VaH@=Yg>8@[X24Z_[@J[^g0
+!s100 ?_9f`kf:SU^>9f;a>:7A33
+R6
+32
+R31
+!i10b 1
+R8
+R82
+R83
 !i113 1
 R11
 R12

@@ -1,4 +1,20 @@
-C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
+C:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/cla_sixteen.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cla_sixteen
+-- Compiling architecture struct of cla_sixteen
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/fourbit_rca_t.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fourbit_rca_t
+-- Compiling architecture struct of fourbit_rca_t
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/rca_behav.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -8,6 +24,78 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package NUMERIC_STD
 -- Compiling entity rca_behav
 -- Compiling architecture behav of rca_behav
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/fourbit_cla_t.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fourbit_cla_t
+-- Compiling architecture behavior of fourbit_cla_t
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo_t.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rca_thirtytwo_t
+-- Compiling architecture behav of rca_thirtytwo_t
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo_t.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cla_thirtytwo_t
+-- Compiling architecture behav of cla_thirtytwo_t
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/fourbit_rca.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fourbit_rca
+-- Compiling architecture struct of fourbit_rca
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/fourbit_cla.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cla
+-- Compiling architecture behav of cla
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/cla_sixteen_t.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cla_sixteen_t
+-- Compiling architecture behav of cla_sixteen_t
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/rca_thirtytwo.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rca_thirtytwo
+-- Compiling architecture struct of rca_thirtytwo
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/adder_for_cla.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder_for_cla
+-- Compiling architecture behav of adder_for_cla
+
+} {} {}} C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/cla_thirtytwo.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cla_thirtytwo
+-- Compiling architecture struct of cla_thirtytwo
 
 } {} {}} C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vasu3/Desktop/ADDERS/rca_behav_t.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
